@@ -5,7 +5,12 @@ how to run
 make sure u have alreayd instally python (latest version to be safe)
 
 git clone https://github.com/Namiii135/Phrase-Structure-Grammar--PSG--Analyzer.git
+
+
 cd Phrase-Structure-Grammar--PSG--Analyzer
+
+
+
 py grammar_classifier.py
 
 then this will appear
