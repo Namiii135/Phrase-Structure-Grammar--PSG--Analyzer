@@ -8,6 +8,7 @@ git clone https://github.com/Namiii135/Phrase-Structure-Grammar--PSG--Analyzer.g
 
 
 cd Phrase-Structure-Grammar--PSG--Analyzer
+
 py grammar_classifier.py
 
 then this will appear
